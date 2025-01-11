@@ -10,7 +10,7 @@ setup(
     description="A Python client for managing Lightning Proxies API",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/lightning_proxies",
+    url="https://github.com/sandersbasket/LightningProxiesAPI",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
