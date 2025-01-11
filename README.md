@@ -22,10 +22,10 @@ pip install lightning-proxies
 
 ## Example usage
 ```python
-from lightning_proxies import LightningProxies
+from lightning_proxies import LightningProxiesAPI
 
 # Initialize the client with your API key
-client = LightningProxies(api_key="your_api_key")
+client = LightningProxiesAPI(api_key="your_api_key")
 
 # Get residential proxy information using plan ID
 plan_id = "648248c31fac1bd9475b61ba"
@@ -35,10 +35,10 @@ print(response)
 ```
 ## Example: Add an IP to the Whitelist
 ```python
-from lightning_proxies import LightningProxies
+from lightning_proxies import LightningProxiesAPI
 
 # Initialize the client with your API key
-client = LightningProxies(api_key="your_api_key")
+client = LightningProxiesAPI(api_key="your_api_key")
 
 # Add an IP address to the whitelist for IPv6 proxies
 plan_id = "648248c31fac1bd9475b61ba"
