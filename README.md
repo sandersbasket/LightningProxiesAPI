@@ -1,7 +1,6 @@
 # LightningProxiesAPI
 
 [![PyPI version](https://badge.fury.io/py/lightning-proxies.svg)](https://pypi.org/project/lightning-proxies/)
-[![GitHub version](https://img.shields.io/github/release/sandersbasket/LightningProxiesAPI.svg)](https://github.com/sandersbasket/LightningProxiesAPI/releases)
 
 `LightningProxiesAPI` is a Python package for interacting with Lightning Proxies' API, providing access to residential, datacenter, IPv6, mobile, and ISP proxy services. This library simplifies the integration of proxy management, offering functionalities such as adding/removing proxies, retrieving plan details, managing whitelists, and more.
 
